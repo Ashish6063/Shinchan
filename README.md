@@ -9,11 +9,11 @@ and after hover the shinchan his name will be visibile .
 
 ## Screenshots
 
-![ Screenshot](screenshot1.png)
+![ Screenshot](Screenshot1.png)
 
 ### Hover property
 
-![ Screenshot](screenshot2.png)
+![ Screenshot](Screenshot2.png)
 
 
 ## How to use 
